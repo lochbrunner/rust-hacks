@@ -1,5 +1,6 @@
 mod count_calls;
+mod learn_iter;
 
 fn main() {
-    println!("Hello, world!");
+    println!("Rust hacks!");
 }
